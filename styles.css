@@ -101,8 +101,8 @@ h1 em,h2 em { color:var(--blue); }
 .contact span { color:var(--blue); }
 .site-footer p { border-color:var(--line); color:#888; }
 .floating-cta { background:#c93636; color:#fff; border-radius:0; box-shadow:0 4px 14px #0002; transition:.25s ease; }
-.floating-cta:hover { background:#fff; color:#c93636; }
-.floating-cta:hover b { border-left-color:#c9363677; }
+.floating-cta:hover { background:#fff; color:var(--blue); }
+.floating-cta:hover b { border-left-color:#1769aa77; }
 #about .section-label span:last-child,.awards .section-label span:last-child,.requirements .section-label span:last-child { font-size:1.22rem; color:#000; font-weight:700; }
 
 @media (max-width:700px) {
