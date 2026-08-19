@@ -142,5 +142,5 @@ TBSグループ各社に所属する社員
 2027年3-4月：TBSドキュメンタリー映画祭および主要都市での上映
 
 【お問合せ先】
-報道コンテンツ戦略室　高山暢比古　takayama.nobuhiko@tbs.co.jp
+報道コンテンツ戦略室　高山 暢比古　takayama.nobuhiko@tbs.co.jp
 　　　　　　　　　　  川上 敬二郎　kawakami.keijiro@tbs.co.jp
